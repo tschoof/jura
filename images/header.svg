@@ -14,7 +14,7 @@
    id="svg2"
    version="1.1"
    inkscape:version="0.48.1 r9760"
-   sodipodi:docname="Neues Dokument 1">
+   sodipodi:docname="header.svg">
   <defs
      id="defs4" />
   <sodipodi:namedview
@@ -24,18 +24,18 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="1.979899"
-     inkscape:cx="158.13274"
-     inkscape:cy="129.99507"
+     inkscape:zoom="3.959798"
+     inkscape:cx="94.941406"
+     inkscape:cy="70.475568"
      inkscape:document-units="px"
      inkscape:current-layer="layer1"
      showgrid="false"
      inkscape:snap-nodes="true"
      inkscape:snap-bbox="true"
-     inkscape:window-width="962"
-     inkscape:window-height="842"
-     inkscape:window-x="140"
-     inkscape:window-y="86"
+     inkscape:window-width="1042"
+     inkscape:window-height="1026"
+     inkscape:window-x="1"
+     inkscape:window-y="24"
      inkscape:window-maximized="0" />
   <metadata
      id="metadata7">
@@ -65,7 +65,7 @@
          id="tspan2987"
          x="0.33040494"
          y="959.95874"
-         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:86.00000143%;letter-spacing:0.5236429px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">blog.</tspan><tspan
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:86.00000143%;letter-spacing:0.5236429px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold"> </tspan><tspan
          sodipodi:role="line"
          x="0.33040494"
          y="1001.8502"
@@ -73,8 +73,20 @@
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:86.00000143%;letter-spacing:0.5236429px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">timmschoof</tspan><tspan
          sodipodi:role="line"
          x="0.33040494"
-         y="1043.7417"
+         y="1043.7416"
          id="tspan2991"
          style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;line-height:86.00000143%;letter-spacing:0.5236429px;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">.com</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:40px;font-style:normal;font-weight:normal;line-height:125%;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;font-family:Sans"
+       x="5.0507631"
+       y="955.38751"
+       id="text2986"
+       sodipodi:linespacing="125%"><tspan
+         sodipodi:role="line"
+         id="tspan2988"
+         x="5.0507631"
+         y="955.38751"
+         style="font-size:48.70999908px;font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;baseline-shift:baseline;font-family:Ubuntu;-inkscape-font-specification:Ubuntu Bold">jura.</tspan></text>
   </g>
 </svg>
