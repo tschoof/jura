@@ -1,7 +1,7 @@
 markdown: rdiscount
 auto: true
-title: blog.timmschoof.com
-url: http://blog.timmschoof.com
+title: jura.timmschoof.com
+url: http://jura.timmschoof.com
 email: hello@timmschoof.com
 author: Timm Schoof
 permalink: /:year/:month/:day/:title
